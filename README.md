@@ -19,3 +19,4 @@
 ![第三步](https://dn-liuhanlin-work.qbox.me/qwt3.png)
 
 
+###如果想要使用源码就需要在ToolSrvImpl.java这个类中添加邮箱地址和密码。然后编译使用。
